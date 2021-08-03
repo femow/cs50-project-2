@@ -2,15 +2,15 @@
 
 <img src="exemple.PNG" alt="Demo">
 
+# Search
+
+Complete the implementation of your Wiki encyclopedia.
+
 # Languages
 
 - [x] Python
 - [x] HTML
 - [x] CSS
-
-# Search
-
-Complete the implementation of your Wiki encyclopedia.
 
 # Specification
 
