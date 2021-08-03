@@ -4,12 +4,7 @@
 
 # Languages
 
-### Back-end
-
 - [x] Python
-
-### Front-end
-
 - [x] HTML
 - [x] CSS
 
