@@ -2,7 +2,7 @@
 
 <img src="exemple.PNG" alt="Demo">
 
-# Search
+# Wiki
 
 Complete the implementation of your Wiki encyclopedia.
 
