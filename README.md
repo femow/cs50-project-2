@@ -1,6 +1,17 @@
-# cs50 Project Wiki
+# CS50 Harvard - Project Wiki 
 
 <img src="exemple.PNG" alt="Demo">
+
+# Languages
+
+### Back-end
+
+- [x] Python
+
+### Front-end
+
+- [x] HTML
+- [x] CSS
 
 # Search
 
